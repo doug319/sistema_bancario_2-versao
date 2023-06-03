@@ -1,2 +1,3 @@
-# sistema_bancario_2-versao
-2ª Versão do Sistema Bancario: Desafio Dio
+# Sistema Bancario: Desafio Dio 2ª Versão :bank: :dollar:
+
+Projeto de um sistema bancário inicial com as funções [criação_de usuário, criação de conta, deposito, extrato e saldo].

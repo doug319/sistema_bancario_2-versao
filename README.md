@@ -1,3 +1,3 @@
 # Sistema Bancario: Desafio Dio 2ª Versão :bank: :dollar:
 
-Projeto de um sistema bancário inicial com as funções [criação_de usuário, criação de conta, deposito, extrato e saldo].
+Projeto de um sistema bancário com as funções [criação_de usuário, criação_de_conta, deposito, extrato e saldo].
